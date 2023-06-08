@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Technologie",
+      "body": "Waooh This is great !",
+      "author": "Mario",
+      "id": 7
+    },
+    {
+      "title": "Coding",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis holunt eos nulla. Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+      "author": "Yoshi",
+      "id": 9
+    }
+  ]
+}
