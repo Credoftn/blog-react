@@ -41,4 +41,6 @@ const BlogDetails = () => {
   );
 };
 
+// yarn json-server to watch
+
 export default BlogDetails;
